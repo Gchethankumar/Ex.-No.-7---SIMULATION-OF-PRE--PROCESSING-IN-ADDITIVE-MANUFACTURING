@@ -45,8 +45,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+```
+ Name: G.Chethan kumar
+ Register Number: 212222240022
+```
+![img7](https://github.com/Gchethankumar/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/118348224/7925f299-2fef-4ea0-8349-079a49288bf7)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
